@@ -1,5 +1,6 @@
 /vendor
 /.vagrant
+/.idea
 phpunit.xml
 /Homestead.yaml
 /Homestead.json
